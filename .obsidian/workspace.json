@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "efe6da91a20e3eba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7248d8ef9f7c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c21d0fabcd701b99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f2dd528e9d4cdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/metadata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66cd8621d8c2f8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All Published/Miscellaneous Tech/Faux Pixel Art with Blender, Rust, Fancy Color Spaces and 'Borrowed' Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b259af0746cb7744",
+    "type": "split",
+    "children": [
+      {
+        "id": "f23f9b994212153e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46187a638722dbc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f420d8dcc8ede83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#saver",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a86aad69d3c6883f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.51103591918945
+  },
+  "right": {
+    "id": "7147a2ca6d2b9de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ae0472ec23aee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea302ff727b32fb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/metadata.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f519842e46c3de4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resources/metadata.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a20977c9252765c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cde7c8c2154c21bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/metadata.md"
+              }
+            }
+          },
+          {
+            "id": "1d4c18cbbcccf35e",
+            "type": "leaf",
+            "state": {
+              "type": "time-ruler-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "8f2dd528e9d4cdde",
+  "lastOpenFiles": [
+    "All Published/Index.md",
+    "All Published/Miscellaneous Tech/Faux Pixel Art with Blender, Rust, Fancy Color Spaces and 'Borrowed' Algorithms.md",
+    "Resources/metadata.md",
+    "All Published/index.md",
+    "Resources/Palette Snapper/cartesian_colors_lab.mkv",
+    "Resources/Palette Snapper/cartesian_colors_rgb.mkv",
+    "All Published/Devlog Updates",
+    "All Published/Miscellaneous Tech",
+    "New folder",
+    "Resources/Palette Snapper/SLS08_PALETTE.png",
+    "Resources/Palette Snapper/output6_alpha_dither.mkv",
+    "Resources/Palette Snapper/output5_new_palette.png",
+    "Resources/Palette Snapper/output4_no_alpha_dither.gif",
+    "Resources/Palette Snapper/output3_oklab_dithered.png",
+    "Resources/Palette Snapper/output2_oklab_no_dither.png",
+    "Resources/Palette Snapper/output1-rgb-no-dither.png",
+    "Resources/Palette Snapper/demo2.gif",
+    "Resources/Palette Snapper/demo1.png",
+    "Resources/Palette Snapper/blender_setup1.png",
+    "Resources/Palette Snapper/archer_palette.png",
+    "Resources/Palette Snapper",
+    "Resources",
+    "Drafts",
+    "All Published",
+    "Blog/Live/Faux Pixel Art with Blender, Rust, Fancy Color Spaces and 'Borrowed' Algorithms.md",
+    "Planning/Templates/Transfer.md",
+    "Untitled.canvas",
+    "new doc.md",
+    "This is a test..md",
+    "Planning/Templates/Weekly.md",
+    "Planning/Templates/Daily.md",
+    "Planning/Weekly/Week 31 of 2023.md",
+    "Planning/Daily/07.31.2023.md",
+    "2023-07-31.md",
+    "Day Planners/Day Planner-20230731.md",
+    "Day Planners/Day Planner-20230730.md"
+  ]
+}

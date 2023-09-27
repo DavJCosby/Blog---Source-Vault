@@ -1,0 +1,26 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#5c3f4f",
+      "url": "https://calendar.google.com/calendar/ical/c14aa4e7c197dedb231fb2bc9789fb261557765aaf665b016997518d9355f985%40group.calendar.google.com/private-2c50b789b41a14211842fea254b119a4/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#55544a",
+      "url": "https://calendar.google.com/calendar/ical/5770d9d634eb682fa0958277f079c53de69104118fbafb6b17a72fefaf4a6f0c%40group.calendar.google.com/private-8e070f533ea8598022bdae813581cbf7/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#3f5865",
+      "url": "https://calendar.google.com/calendar/ical/davjcosby%40gmail.com/private-e2b059286c4c917daa6ca215d4fb6420/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridDay",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
